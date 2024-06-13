@@ -6,6 +6,9 @@ project:
     code: CC-BY-4.0
   references:
     foundations: https://projectpythia-mystmd.github.io/pythia-foundations
+  jupyter:
+    binder:
+      url: https://binder.projectpythia.org/
 site:
   template: book-theme
   options:
