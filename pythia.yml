@@ -16,9 +16,9 @@ site:
     - title: Home
       url: https://projectpythia.org
     - title: Foundations
-      url: https://foundations.projectpythia.org
+      url: https://projectpythia-mystmd.github.io/pythia-foundations
     - title: Cookbooks
-      url: https://cookbooks.projectpythia.org
+      url: https://projectpythia-mystmd.github.io/cookbook-gallery
     - title: Resources
       url: https://projectpythia.org/resource-gallery.html
     - title: Community
