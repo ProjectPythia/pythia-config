@@ -4,6 +4,8 @@ project:
   license:
     content: Apache-2.0
     code: CC-BY-4.0
+  references:
+    foundations: https://projectpythia-mystmd.github.io/pythia-foundations
 site:
   template: book-theme
   options:
