@@ -20,7 +20,7 @@ site:
     - title: Cookbooks
       url: https://projectpythia-mystmd.github.io/cookbook-gallery
     - title: Resources
-      url: https://projectpythia.org/resource-gallery.html
+      url: https://projectpythia-mystmd.github.io/resource-gallery
     - title: Community
       url: https://projectpythia.org/index.html#join-us
   actions:
