@@ -14,7 +14,7 @@ site:
     logo_dark: https://raw.githubusercontent.com/projectpythia-mystmd/pythia-config/main/pythia_logo-white-rtext.svg
   nav:
     - title: Home
-      url: https://projectpythia.org
+      url: https://projectpythia-mystmd.github.io
     - title: Foundations
       url: https://projectpythia-mystmd.github.io/pythia-foundations
     - title: Cookbooks
@@ -22,10 +22,10 @@ site:
     - title: Resources
       url: https://projectpythia-mystmd.github.io/resource-gallery
     - title: Community
-      url: https://projectpythia.org/index.html#join-us
+      url: https://projectpythia-mystmd.github.io/#join-us
   actions:
     - title: Project Pythia
-      url: https://projectpythia.org
+      url: https://projectpythia-mystmd.github.io
   jupyter:
     binder:
       url: https://binder.projectpythia.org/
