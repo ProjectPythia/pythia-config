@@ -26,3 +26,6 @@ site:
   actions:
     - title: Project Pythia
       url: https://projectpythia.org
+  jupyter:
+    binder:
+      url: https://binder.projectpythia.org/
