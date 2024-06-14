@@ -6,6 +6,9 @@ project:
     code: CC-BY-4.0
   references:
     foundations: https://projectpythia-mystmd.github.io/pythia-foundations
+    xarray: https://docs.xarray.dev/en/stable/
+    matplotlib: https://matplotlib.org/stable/
+    
 site:
   template: book-theme
   options:
