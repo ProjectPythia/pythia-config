@@ -8,6 +8,9 @@ project:
     foundations: https://projectpythia-mystmd.github.io/pythia-foundations
     xarray: https://docs.xarray.dev/en/stable/
     matplotlib: https://matplotlib.org/stable/
+  jupyter:
+    binder:
+      url: https://binder.projectpythia.org/
     
 site:
   template: book-theme
@@ -29,6 +32,3 @@ site:
   actions:
     - title: Project Pythia
       url: https://projectpythia-mystmd.github.io
-  jupyter:
-    binder:
-      url: https://binder.projectpythia.org/
