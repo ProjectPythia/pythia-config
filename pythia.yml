@@ -16,8 +16,8 @@ site:
   template: book-theme
   options:
     favicon: https://raw.githubusercontent.com/projectpythia-mystmd/pythia-config/main/favicon.ico
-    logo: https://raw.githubusercontent.com/projectpythia-mystmd/pythia-config/main/pythia_logo-white-rtext-blue.svg
-    logo_dark: https://raw.githubusercontent.com/projectpythia-mystmd/pythia-config/main/pythia_logo-white-rtext.svg
+    logo: https://raw.githubusercontent.com/projectpythia-mystmd/pythia-config/main/logos/pythia_logo-white-rtext-blue.svg
+    logo_dark: https://raw.githubusercontent.com/projectpythia-mystmd/pythia-config/main/logos/pythia_logo-white-rtext.svg
   nav:
     - title: Home
       url: https://projectpythia-mystmd.github.io
@@ -32,3 +32,6 @@ site:
   actions:
     - title: Project Pythia
       url: https://projectpythia-mystmd.github.io
+
+  parts:
+    footer: footer.md
