@@ -7,59 +7,33 @@
 % Here we use `grid` to add a basic grid structure to the HTML,
 % but the formatting column sizes are defined manually in css/footer.css
 % see the `grid-template-columns` line.
-:::::{grid} 3 3 5 5
-:class: outer-grid col-screen
+:::::{grid} 3
+:class: items-center
 
-<!-- Left spacer -->
-::::{div}
-::::
 
-<!-- Project description -->
-::::{div}
-
-# Landing Pages
-
-```{image} https://jupyterbook.org/en/stable/_images/logo-square.svg
-:width: 50px
-:align: left
+```{image} logos/NSF-NCAR.png
+:alt: NCAR Logo
 ```
 
-This is a description of our project. And a [link to its homepage](https://github.com/jupyter-book/example-landing-pages).
-::::
+```{image} logos/NSF-Unidata.png
+:alt: Unidata Logo
+```
 
-<!-- Spacer between project description and links columns -->
-::::{div}
-::::
+```{image} logos/UAlbany.svg
+:alt: UAlbany Logo
+```
+:::::
 
-<!-- Link columns -->
-% This a *second* grid embedded within the first one, to create nicer
-% responsive design experience. This grid will have a single column on narrow screens,
-% and fan out into three columns on wide screens. However, it always remains within
-% its parent grid column.
-::::{grid} 1 1 3 3
 
-:::{div}
+:::::{div}
+:class: flex items-center gap-4
 
-- [About](https://mystmd.org/overview/ecosystem)
-- [Guide](https://mystmd.org/guide)
-- [Sandbox](https://mystmd.org/sandbox)
-:::
+```{image} logos/nsf.jpg
+:alt: NSF Logo
+:height: 60px
+```
 
-:::{div}
-
-- A second column!
-- With multiple entries
-:::
-
-:::{div}
-
-- And what about a third
-:::
-
-::::
-
-<!-- Right-most spacer -->
-::::{div}
-::::
-
+<span style="font-size: 0.9em; line-height: 1.4;">
+  This material is based upon work supported by the National Science Foundation under Grant Nos. 2026863 and 2026899. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
+</span>
 :::::
