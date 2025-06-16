@@ -52,16 +52,13 @@ site:
         ```
         :::::
 
-
         :::::{div}
-        :class: flex items-center gap-4
+        :class: flex items-center gap-4 text-disclaimer
 
         ```{image} https://raw.githubusercontent.com/projectpythia-mystmd/pythia-config/main/logos/nsf.jpg
         :alt: NSF Logo
         :height: 60px
         ```
 
-        <span style="font-size: 0.9em; line-height: 1.4;">
-          This material is based upon work supported by the National Science Foundation under Grant Nos. 2026863 and 2026899. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
-        </span>
+        This material is based upon work supported by the National Science Foundation under Grant Nos. 2026863 and 2026899. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
         :::::
