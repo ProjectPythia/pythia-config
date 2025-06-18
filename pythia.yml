@@ -15,6 +15,7 @@ project:
 site:
   template: book-theme
   options:
+    folders: true
     favicon: https://raw.githubusercontent.com/ProjectPythia/pythia-config/main/favicon.ico
     logo: https://raw.githubusercontent.com/ProjectPythia/pythia-config/main/logos/pythia_logo-white-rtext-blue.svg
     logo_dark: https://raw.githubusercontent.com/ProjectPythia/pythia-config/main/logos/pythia_logo-white-rtext.svg
