@@ -27,7 +27,7 @@ site:
     - title: Cookbooks
       url: https://cookbooks.projectpythia.org/
     - title: Resources
-      url: https://projectpythia.org/resource-gallery.html
+      url: https://projectpythia.org/resource-gallery/
     - title: Community
       url: https://projectpythia.org/#join-us
   actions:
