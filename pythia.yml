@@ -27,6 +27,7 @@ project:
     - name: Kevin Tyle
       id: ktyle
       orcid: 0000-0001-5249-9665
+      affiliation: University at Albany (State University of New York)
     
 site:
   template: book-theme
