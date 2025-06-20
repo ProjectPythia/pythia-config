@@ -15,6 +15,7 @@ project:
     - name: Brian E. J. Rose
       id: brian-rose
       orcid: 0000-0002-9961-3821
+      affiliation: University at Albany (State University of New York)
     - name: John Clyne
       id: clyne
       orcid: 0000-0003-2788-9017
