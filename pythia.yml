@@ -11,6 +11,23 @@ project:
   jupyter:
     binder:
       url: https://binder.projectpythia.org/
+  contributors:
+    - name: Brian E. J. Rose
+      id: brian-rose
+      orcid: 0000-0002-9961-3821
+      affiliation: University at Albany (State University of New York)
+    - name: John Clyne
+      id: clyne
+      orcid: 0000-0003-2788-9017
+      affiliation: UCAR/NCAR
+    - name: Julia Kent
+      id: jukent
+      orcid: 0000-0002-5611-8986
+      affiliation: UCAR/NCAR
+    - name: Kevin Tyle
+      id: ktyle
+      orcid: 0000-0001-5249-9665
+      affiliation: University at Albany (State University of New York)
     
 site:
   template: book-theme
