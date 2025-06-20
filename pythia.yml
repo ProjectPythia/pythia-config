@@ -23,6 +23,7 @@ project:
     - name: Julia Kent
       id: jukent
       orcid: 0000-0002-5611-8986
+      affiliation: UCAR/NCAR
     - name: Kevin Tyle
       id: ktyle
       orcid: 0000-0001-5249-9665
