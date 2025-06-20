@@ -19,6 +19,7 @@ project:
     - name: John Clyne
       id: clyne
       orcid: 0000-0003-2788-9017
+      affiliation: UCAR/NCAR
     - name: Julia Kent
       id: jukent
       orcid: 0000-0002-5611-8986
