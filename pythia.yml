@@ -2,8 +2,8 @@ version: 1
 project:
   open_access: true
   license:
-    content: Apache-2.0
-    code: CC-BY-4.0
+    content: CC-BY-4.0
+    code: Apache-2.0
   references:
     foundations: https://foundations.projectpythia.org
     xarray: https://docs.xarray.dev/en/stable/
