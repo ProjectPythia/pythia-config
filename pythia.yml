@@ -107,12 +107,15 @@ project:
       url: https://www.albany.edu/daes
     - id: CISL
       name: NSF National Center for Atmospheric Research 
-      department: Computational and Information Systems Lab.
+      department: Computational and Information Systems Lab
+      url: https://www.cisl.ucar.edu
     - id: Unidata
       name: NSF Unidata
+      url: https://www.unidata.ucar.edu
     - id: Argonne
       name: Argonne National Laboratory
       department: Environmental Science Division
+      url: https://www.anl.gov/evs
     - id: CarbonPlan
       name: CarbonPlan
       url: https://carbonplan.org
