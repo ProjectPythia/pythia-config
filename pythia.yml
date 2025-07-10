@@ -98,6 +98,7 @@ project:
     - name: Katelyn FitzGerald
       id: kafitzgerald
       github: kafitzgerald
+      orcid: 0000-0003-4184-1917
       affiliations: CISL
   affiliations:
     - id: UAlbany
