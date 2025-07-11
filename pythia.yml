@@ -36,61 +36,51 @@ project:
       github: ktyle
       orcid: 0000-0001-5249-9665
       affiliations: UAlbany
-    - family-names: Banihirwe
-      given-names: Anderson
+    - name: Anderson Banihirwe
       id: andersy005
       github: andersy005
       orcid: https://orcid.org/0000-0001-6583-571X
       affiliations: CarbonPlan
-    - family-names: Camron
-      given-names: Drew
+    - name: Drew Camron
       id: dcamron
       github: dcamron
       orcid: https://orcid.org/0000-0001-7246-6502
       affiliations: Unidata
-    - family-names: May
-      given-names: Ryan
+    - name: Ryan May
       id: dopplershift
       github: dopplershift
       orcid: https://orcid.org/0000-0003-2907-038X
       affiliations: Unidata
-    - family-names: Grover
-      given-names: Maxwell
+    - name: Maxwell Grover
       id: mgrover1
       github: mgrover1
       orcid: https://orcid.org/0000-0002-0370-8974
       affiliations: Argonne
-    - family-names: Ford
-      given-names: Robert R.
+    - name: Robert R. Ford
       id: r-ford
       github: r-ford
       orcid: https://orcid.org/0000-0001-5483-4965
       affiliations: UAlbany
-    - family-names: Paul
-      given-names: Kevin
+    - name: Kevin Paul
       id: kmpaul
       github: kmpaul
       orcid: https://orcid.org/0000-0001-8155-8038
       affiliations: NVIDIA
-    - family-names: Morley
-      given-names: James
+    - name: James Morley
       id: jnmorley
       github: jnmorley
       orcid: https://orcid.org/0009-0005-5193-7981
-    - family-names: Eroglu
-      given-names: Orhan
+    - name: Orhan Eroglu
       id: erogluorhan
       github: erogluorhan
       orcid: https://orcid.org/0000-0003-3099-8775
       affiliation: CISL
-    - family-names: Kailyn
-      given-names: Lily
+    - name: Lily Kailyn
       id: lkailynncar
       github: lkailynncar
       orcid: https://orcid.org/0009-0002-0125-5091
       affiliations: CISL
-    - family-names: Zacharias
-      given-names: Anissa
+    - name: Anissa Zacharias
       id: anissa111
       github: anissa111
       orcid: https://orcid.org/0000-0002-2666-8493
