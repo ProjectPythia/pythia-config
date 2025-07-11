@@ -14,20 +14,114 @@ project:
   contributors:
     - name: Brian E. J. Rose
       id: brian-rose
+      github: brian-rose
       orcid: 0000-0002-9961-3821
-      affiliation: University at Albany (State University of New York)
+      email: 'brose@albany.edu'
+      affiliations: UAlbany
+      url: https://brian-rose.github.io
+      bluesky: '@brianejrose.bsky.social'
+      linkedin: https://www.linkedin.com/in/brian-rose-37bb55106/
     - name: John Clyne
       id: clyne
+      github: clyne
       orcid: 0000-0003-2788-9017
-      affiliation: UCAR/NCAR
+      affiliations: CISL
     - name: Julia Kent
       id: jukent
+      github: jukent
       orcid: 0000-0002-5611-8986
-      affiliation: UCAR/NCAR
+      affiliation: CISL
     - name: Kevin Tyle
       id: ktyle
+      github: ktyle
       orcid: 0000-0001-5249-9665
-      affiliation: University at Albany (State University of New York)
+      affiliations: UAlbany
+    - family-names: Banihirwe
+      given-names: Anderson
+      id: andersy005
+      github: andersy005
+      orcid: https://orcid.org/0000-0001-6583-571X
+      affiliations: CarbonPlan
+    - family-names: Camron
+      given-names: Drew
+      id: dcamron
+      github: dcamron
+      orcid: https://orcid.org/0000-0001-7246-6502
+      affiliations: Unidata
+    - family-names: May
+      given-names: Ryan
+      id: dopplershift
+      github: dopplershift
+      orcid: https://orcid.org/0000-0003-2907-038X
+      affiliations: Unidata
+    - family-names: Grover
+      given-names: Maxwell
+      id: mgrover1
+      github: mgrover1
+      orcid: https://orcid.org/0000-0002-0370-8974
+      affiliations: Argonne
+    - family-names: Ford
+      given-names: Robert R.
+      id: r-ford
+      github: r-ford
+      orcid: https://orcid.org/0000-0001-5483-4965
+      affiliations: UAlbany
+    - family-names: Paul
+      given-names: Kevin
+      id: kmpaul
+      github: kmpaul
+      orcid: https://orcid.org/0000-0001-8155-8038
+      affiliations: NVIDIA
+    - family-names: Morley
+      given-names: James
+      id: jnmorley
+      github: jnmorley
+      orcid: https://orcid.org/0009-0005-5193-7981
+    - family-names: Eroglu
+      given-names: Orhan
+      id: erogluorhan
+      github: erogluorhan
+      orcid: https://orcid.org/0000-0003-3099-8775
+      affiliation: CISL
+    - family-names: Kailyn
+      given-names: Lily
+      id: lkailynncar
+      github: lkailynncar
+      orcid: https://orcid.org/0009-0002-0125-5091
+      affiliations: CISL
+    - family-names: Zacharias
+      given-names: Anissa
+      id: anissa111
+      github: anissa111
+      orcid: https://orcid.org/0000-0002-2666-8493
+      affiliations: CISL
+    - name: Katelyn FitzGerald
+      id: kafitzgerald
+      github: kafitzgerald
+      orcid: 0000-0003-4184-1917
+      affiliations: CISL
+  affiliations:
+    - id: UAlbany
+      name: University at Albany (SUNY)
+      department: Atmospheric and Environmental Sciences
+      url: https://www.albany.edu/daes
+    - id: CISL
+      name: NSF National Center for Atmospheric Research 
+      department: Computational and Information Systems Lab
+      url: https://www.cisl.ucar.edu
+    - id: Unidata
+      name: NSF Unidata
+      url: https://www.unidata.ucar.edu
+    - id: Argonne
+      name: Argonne National Laboratory
+      department: Environmental Science Division
+      url: https://www.anl.gov/evs
+    - id: CarbonPlan
+      name: CarbonPlan
+      url: https://carbonplan.org
+    - id: NVIDIA
+      name: NVIDIA Corporation
+      url: https://www.nvidia.com/
     
 site:
   template: book-theme
