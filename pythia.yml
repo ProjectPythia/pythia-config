@@ -121,6 +121,7 @@ site:
     logo: https://raw.githubusercontent.com/ProjectPythia/pythia-config/main/logos/pythia_logo-white-rtext-blue.svg
     logo_dark: https://raw.githubusercontent.com/ProjectPythia/pythia-config/main/logos/pythia_logo-white-rtext.svg
     logo_url: https://projectpythia.org
+    analytics_google: G-T52X8HNYE8 # Measurement ID for Cookbooks
   nav:
     - title: Home
       url: https://projectpythia.org
