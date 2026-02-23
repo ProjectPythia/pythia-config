@@ -8,6 +8,7 @@ project:
     foundations: https://foundations.projectpythia.org
     xarray: https://docs.xarray.dev/en/stable/
     matplotlib: https://matplotlib.org/stable/
+    python: https://docs.python.org/3/
   jupyter:
     binder:
       url: https://binder.projectpythia.org/
