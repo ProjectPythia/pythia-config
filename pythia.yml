@@ -171,3 +171,6 @@ site:
 
         This material is based upon work supported by the National Science Foundation under Grant Nos. 2026863 and 2026899. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
         :::::
+
+parse:
+  links_external_new_tab: false
