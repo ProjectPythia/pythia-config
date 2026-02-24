@@ -91,6 +91,10 @@ project:
       github: kafitzgerald
       orcid: 0000-0003-4184-1917
       affiliations: CISL
+    - name: Brittany Freeman
+      id: bl-freeman
+      orcid: 0009-0006-2806-1149
+      affiliations: UAlbany
   affiliations:
     - id: UAlbany
       name: University at Albany (SUNY)
