@@ -130,17 +130,23 @@ site:
   nav:
     - title: Home
       url: https://projectpythia.org
+      open_in_same_tab: true
     - title: Foundations
       url: https://foundations.projectpythia.org
+      open_in_same_tab: true
     - title: Cookbooks
       url: https://cookbooks.projectpythia.org/
+      open_in_same_tab: true
     - title: Resources
       url: https://projectpythia.org/resource-gallery/
+      open_in_same_tab: true
     - title: Community
       url: https://projectpythia.org/#join-us
+      open_in_same_tab: true
   actions:
     - title: Project Pythia
       url: https://projectpythia.org
+      open_in_same_tab: true
 
   parts:
     footer: |
