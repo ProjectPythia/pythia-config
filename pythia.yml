@@ -137,17 +137,23 @@ site:
   nav:
     - title: Home
       url: https://projectpythia.org
+      open_in_same_tab: true
     - title: Foundations
       url: https://foundations.projectpythia.org
+      open_in_same_tab: true
     - title: Cookbooks
       url: https://cookbooks.projectpythia.org/
+      open_in_same_tab: true
     - title: Resources
       url: https://projectpythia.org/resource-gallery/
+      open_in_same_tab: true
     - title: Community
       url: https://projectpythia.org/#join-us
+      open_in_same_tab: true
   actions:
     - title: Project Pythia
       url: https://projectpythia.org
+      open_in_same_tab: true
 
   parts:
     footer: |
@@ -178,3 +184,6 @@ site:
 
         This material is based upon work supported by the National Science Foundation under Grant Nos. 2026863 and 2026899. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
         :::::
+
+parse:
+  links_external_new_tab: false
