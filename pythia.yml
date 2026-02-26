@@ -121,9 +121,12 @@ project:
     - rule: link-resolves
       severity: ignore
       keys:
-        - 'https://doi.org/*' # temporary skip until larger DOI issue is addressed
-        - 'https://zenodo.org/badge/latestdoi/*' # temporary skip until larger DOI issue is addressed
-    
+        - 'https://doi.org/**'
+        - 'https://zenodo.org/badge/latestdoi/**'
+    - rule: doi-link-valid
+      severity: ignore
+      keys:
+        - 'https://zenodo.org/badge/latestdoi/**'   # also suppress the DOI validation error
     
 site:
   template: book-theme
