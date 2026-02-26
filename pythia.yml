@@ -122,11 +122,11 @@ project:
       severity: ignore
       keys:
         - 'https://doi.org/**'
-        - 'https://zenodo.org/badge/latestdoi/**'
+        - 'https://zenodo.org/**'
     - rule: doi-link-valid
       severity: ignore
       keys:
-        - 'https://zenodo.org/badge/latestdoi/**'   # also suppress the DOI validation error
+        - 'https://zenodo.org/**'   # also suppress the DOI validation error
     
 site:
   template: book-theme
