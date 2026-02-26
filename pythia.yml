@@ -117,6 +117,13 @@ project:
     - id: NVIDIA
       name: NVIDIA Corporation
       url: https://www.nvidia.com/
+  error_rules:
+    - rule: link-resolves
+      severity: ignore
+      keys:
+        - 'https://doi.org/*' # temporary skip until larger DOI issue is addressed
+        - 'https://zenodo.org/badge/latestdoi/*' # temporary skip until larger DOI issue is addressed
+    
     
 site:
   template: book-theme
