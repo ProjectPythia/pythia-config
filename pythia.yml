@@ -154,7 +154,6 @@ site:
   actions:
     - title: Project Pythia
       url: https://projectpythia.org
-      open_in_same_tab: true
 
   parts:
     footer: |
