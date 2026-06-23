@@ -95,6 +95,11 @@ project:
       id: bl-freeman
       orcid: 0009-0006-2806-1149
       affiliations: UAlbany
+    - name: Chris Holdgraf
+      id: choldgraf
+      github: choldgraf
+      orcid: https://orcid.org/0000-0002-2391-0678
+      affiliations: 2i2c
   affiliations:
     - id: UAlbany
       name: University at Albany (SUNY)
@@ -117,6 +122,9 @@ project:
     - id: NVIDIA
       name: NVIDIA Corporation
       url: https://www.nvidia.com/
+    - id: 2i2c
+      name: 2i2c
+      url: https://2i2c.org
   error_rules:
     - rule: link-resolves
       severity: ignore
